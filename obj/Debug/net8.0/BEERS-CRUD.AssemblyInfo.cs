@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BEERS-CRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11be903884e0ca3d89656f7c5fcf59a744f6fbfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("BEERS-CRUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BEERS-CRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

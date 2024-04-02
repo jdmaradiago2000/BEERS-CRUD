@@ -1,10 +1,7 @@
 ﻿using Backend.DTOs;
-using Backend.Models;
 using Backend.Services;
 using FluentValidation;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace Backend.Controllers
 {
@@ -15,6 +12,7 @@ namespace Backend.Controllers
         private IValidator<BeerInsertDto> _beerInsertValidator;
         private IValidator<BeerUpdateDto> _beerUpdateValidator;
         private ICommonService<BeerDto, BeerInsertDto, BeerUpdateDto> _beerService;
+        private BeerService service;
 
         public BeerController(IValidator<BeerInsertDto> beerInsertValidator,
             IValidator<BeerUpdateDto> beerUpdateValidator,

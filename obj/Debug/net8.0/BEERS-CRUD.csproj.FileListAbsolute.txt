@@ -162,3 +162,4 @@ D:\Cursos_Informatica\C# Hdeleon.net\Aprende Programación Backend en C# .NET Ud
 D:\Cursos_Informatica\C# Hdeleon.net\Aprende Programación Backend en C# .NET Udemy\BEERS-CRUD\BEERS-CRUD\obj\Debug\net8.0\BEERS-CRUD.pdb
 D:\Cursos_Informatica\C# Hdeleon.net\Aprende Programación Backend en C# .NET Udemy\BEERS-CRUD\BEERS-CRUD\obj\Debug\net8.0\BEERS-CRUD.genruntimeconfig.cache
 D:\Cursos_Informatica\C# Hdeleon.net\Aprende Programación Backend en C# .NET Udemy\BEERS-CRUD\BEERS-CRUD\obj\Debug\net8.0\ref\BEERS-CRUD.dll
+D:\Cursos_Informatica\C# Hdeleon.net\Aprende Programación Backend en C# .NET Udemy\BEERS-CRUD\BEERS-CRUD\obj\Debug\net8.0\BEERS-CRUD.sourcelink.json
